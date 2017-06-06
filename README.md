@@ -1,1 +1,1 @@
-# MAL
+# My Anime List 
